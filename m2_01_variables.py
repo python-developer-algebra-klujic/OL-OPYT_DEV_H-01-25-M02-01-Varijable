@@ -1,7 +1,27 @@
+# Header skripte - komentar u jednoj linij
+
 print('Hello World!')
 
+# Komentar u vise linija
+'''
+sdfegbsewrbv
+awerbaer
+bawebv
+awerbaerbvawe
+
+awerbvawervwaev
+
+
+AWERBWAERvwa
+'''
+
+
+
 # Kreirajte varijable (imenujte ih i dodijelite im odgovarajuću vrijednost) za:
-# Ime, prezime, godinu rođenja, državu rođenja, status radnog odnosa, težinu te spol
+# Ovaj dio koda ce se pokusati pokrenuti i javiti gresku
+# Ime, prezime, godinu rođenja, državu rođenja, status radnog odnosa, težinu te spol:
+
+
 first_name = 'Pero'
 last_name = 'Peric'
 year_of_birth = 1998
